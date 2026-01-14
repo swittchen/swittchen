@@ -11,7 +11,6 @@ I'm a backend-focused Java developer passionate about building clean, testable, 
 
 🧪 I care about testability and reproducibility. That's why my projects include integration tests, containerized MySQL environments, and clean architecture.
 
-🚀 I'm currently working on backend applications using Spring Boot — to be published on GitHub soon.
+🚀 I'm currently working on backend applications using JakartaEE.
 
-📫 Let’s connect — check out my repositories or message me directly!
 
