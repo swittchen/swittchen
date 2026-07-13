@@ -5,7 +5,7 @@ ELN/LIMS Integration · Data Migration · Spring Boot
 
 ---
 
-I bridge two worlds that rarely meet: a doctoral engineer (polymer & composite engineering) and a Java backend developer. I apply that combination where software meets a real technical domain — in the **digitalization of laboratory, testing, and engineering data**.
+I bridge two worlds together: polymer & composite engineering and a Java backend development. I apply that combination where software meets a real technical domain — in the **digitalization of laboratory, testing, and engineering data**.
 
 ### What I do
 
