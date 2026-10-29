@@ -25,6 +25,8 @@ That's why I understand which data arises in testing labs, R&D, and production �
 ### Selected work
 
 - **[CRIMSy](https://github.com/ipb-halle/CRIMSy)** — contributor to the open-source Cloud Resource & Information Management System, a distributed platform for secure exchange of research data (Jakarta EE, Hibernate, PostgreSQL, Docker)
+- **[signals](https://github.com/ipb-halle/signals)** — co-developer of the institute's toolkit for migration, backup and maintenance around the Revvity Signals Notebook
+- **[trays_creator](https://github.com/ipb-halle/trays_creator)** — Spring Boot service that imports lab trays from CSV and location types from the Signals Inventory API into a clean domain model in PostgreSQL (sole developer)
 - **BioSource Inventorizer** — Spring Boot application migrating biological inventory data into Signals ELN via REST API, with NCBI taxonomy enrichment
 
 ### Stack
