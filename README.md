@@ -44,4 +44,4 @@ That's why I understand which data arises in testing labs, R&D, and production �
 
 Remote / hybrid roles in Germany: lab & engineering software (ELN, LIMS, CAQ, PLM), biotech/pharma IT, testing technology, and research institutions.
 
-📫 javafullstackdeveloper@outlook.de
+📫 java.back.dev2685@gmail.com
